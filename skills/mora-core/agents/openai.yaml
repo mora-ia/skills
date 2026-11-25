@@ -1,0 +1,7 @@
+interface:
+  display_name: "Mora Core"
+  short_description: "Shared Mora MCP safety and routing rules"
+  default_prompt: "Apply Mora MCP shared conventions before domain work."
+
+policy:
+  allow_implicit_invocation: true

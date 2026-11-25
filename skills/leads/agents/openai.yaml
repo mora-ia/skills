@@ -1,0 +1,7 @@
+interface:
+  display_name: "Mora Leads"
+  short_description: "Lead queue, stage, summary, and broker replies"
+  default_prompt: "Work the Mora lead queue via MCP."
+
+policy:
+  allow_implicit_invocation: true

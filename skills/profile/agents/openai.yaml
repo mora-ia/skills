@@ -1,0 +1,7 @@
+interface:
+  display_name: "Mora Profile"
+  short_description: "Org profile, permissions, and AI quota"
+  default_prompt: "Check Mora profile and AI quota via MCP."
+
+policy:
+  allow_implicit_invocation: true

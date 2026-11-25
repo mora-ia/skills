@@ -1,0 +1,14 @@
+{
+  "name": "@mora-ia/skills",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Mora Agent Skills for Claude, ChatGPT, and other Agent Skills hosts",
+  "license": "Apache-2.0",
+  "scripts": {
+    "validate": "node scripts/validate-skills.mjs",
+    "validate:ci": "npm run validate"
+  },
+  "devDependencies": {
+    "skills-ref": "0.1.5"
+  }
+}

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Mora Properties"
+  short_description: "Listings, developments, photos, and places"
+  default_prompt: "Work Mora property inventory via MCP."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Mora Meta"
+  short_description: "List and create Meta ad campaigns"
+  default_prompt: "Manage Mora Meta campaigns via MCP."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Mora Visits"
+  short_description: "Schedule and update property visits"
+  default_prompt: "Schedule or update a Mora visit via MCP."
+
+policy:
+  allow_implicit_invocation: true
